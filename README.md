@@ -12,4 +12,11 @@ COMMAND :
      pip install tkinter
      pip install moviepy
      
+<img width="380" alt="image" src="https://user-images.githubusercontent.com/84226079/213870410-72eecbb5-c591-4dbd-945e-08b54aa3b564.png">
 
+
+Developed By : Chamika Srimantha
+
+Developed Date : 2023/01/21
+
+Portfolio : https://www.chamika-srimantha.me/
